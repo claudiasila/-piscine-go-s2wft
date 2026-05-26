@@ -1,1 +1,1 @@
-Hello csila!
+echo 'Hello csila!'
